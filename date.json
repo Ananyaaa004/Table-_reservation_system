@@ -1,0 +1,305 @@
+[
+  {
+    "table_number": [
+      [
+        1,
+        2,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "table_type": [
+      "Family",
+      "Couple",
+      "Party"
+    ],
+    "timing": "Breakfast",
+    "date": "12-27-2023",
+    "occupied": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      3,
+      4,
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "table_number": [
+      [
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "table_type": [
+      "Family",
+      "Couple",
+      "Party"
+    ],
+    "timing": "Lunch",
+    "date": "12-27-2023",
+    "occupied": [
+      1,
+      2
+    ]
+  },
+  {
+    "table_number": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "table_type": [
+      "Family",
+      "Couple",
+      "Party"
+    ],
+    "timing": "Dinner",
+    "date": "12-27-2023"
+  },
+  {
+    "table_number": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "table_type": [
+      "Family",
+      "Couple",
+      "Party"
+    ],
+    "timing": "Breakfast",
+    "date": "12-28-2023"
+  },
+  {
+    "table_number": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "table_type": [
+      "Family",
+      "Couple",
+      "Party"
+    ],
+    "timing": "Lunch",
+    "date": "12-28-2023"
+  },
+  {
+    "table_number": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "table_type": [
+      "Family",
+      "Couple",
+      "Party"
+    ],
+    "timing": "Dinner",
+    "date": "12-28-2023"
+  },
+  {
+    "table_number": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "table_type": [
+      "Family",
+      "Couple",
+      "Party"
+    ],
+    "timing": "Breakfast",
+    "date": "12-29-2023"
+  },
+  {
+    "table_number": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "table_type": [
+      "Family",
+      "Couple",
+      "Party"
+    ],
+    "timing": "Lunch",
+    "date": "12-29-2023"
+  },
+  {
+    "table_number": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "table_type": [
+      "Family",
+      "Couple",
+      "Party"
+    ],
+    "timing": "Dinner",
+    "date": "12-29-2023"
+  }
+]
